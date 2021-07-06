@@ -41,8 +41,7 @@ main .intro p {
 main .login {
     margin-top: 130px;
     text-align: center;
-    background: #fff;
-    box-shadow: ;
+    background: #fff; 
     border-radius: 8px;
     box-shadow: 5px 5px 10px 1px rgba(0, 0, 0, 0.1),
                 -5px 5px 10px 1px rgba(0, 0, 0, 0.1);
